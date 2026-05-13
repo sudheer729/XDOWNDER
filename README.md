@@ -137,7 +137,7 @@ Or download manually from [ffmpeg.org](https://ffmpeg.org).
 | `python` not recognized | Install Python & add to PATH |
 | `yt-dlp not found` | Run `pip install yt-dlp` |
 | FFmpeg missing warning | Run `pip install imageio-ffmpeg` |
-| TeraBox API error 401 | Check your xAPIverse API key |
+| TeraBox API error 401 | Check your  API key |
 | Age-restricted video fails | Add `cookies.txt` next to script |
 
 ---
